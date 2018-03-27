@@ -1,6 +1,6 @@
 CHIP ProtoDIP
 =============
-Copyright 2014 SuperHouse Automation Pty Ltd  www.superhouse.tv  
+Copyright 2016 SuperHouse Automation Pty Ltd  www.superhouse.tv  
 
 A minimalist general-purpose prototyping DIP for the C.H.I.P.
 
